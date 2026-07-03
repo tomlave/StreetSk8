@@ -1,5 +1,5 @@
 {
-  "name": "Street Sk8",
+  "name": "StreetSk8",
   "menuBackgroundImage": "https://tomlave.github.io/StreetSk8/Image/backprint.png",
   "defaultRessources": {
     "backgrounds": [],
@@ -56,19 +56,41 @@
           "isSymetricalForOpponents": true,
           "content": [
             {
-              "section": "Patza",
-              "style": false
-            },
-            {
-              "direction": "row",
-              "style": false,
+              "direction": "column",
+              "style": "",
               "content": [
                 {
-                  "section": "Module",
+                  "section": "Platza",
                   "style": false
                 },
                 {
-                  "section": "Module",
+                  "section": "Energy",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Combo",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Pile",
+                  "style": false
+                },
+                {
+                  "section": "Deck",
                   "style": false
                 }
               ],
@@ -80,10 +102,12 @@
           "Deck"
         ],
         "autoPlayFromHand": {
-          "bd9546b3-04cb-423b-bb5d-0eb70132c699": "Hand"
+          "bd9546b3-04cb-423b-bb5d-0eb70132c699": "Combo",
+          "aef36561-d477-4d14-b397-ae721ad90742": "Platza",
+          "10445906-b6b4-45d2-8dfd-42b8262fb330": "Pile"
         },
         "autoPlayFromStack": {
-          "bfafb6b1-01c3-4ccb-a27e-b0dc4c71efc7": "Pile"
+          "bfafb6b1-01c3-4ccb-a27e-b0dc4c71efc7": "Combo"
         },
         "sectionsDict": {
           "Energy": {
@@ -94,7 +118,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
-            "displayedTitle": "Ressources",
+            "displayedTitle": "Energy",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
