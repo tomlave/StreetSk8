@@ -7,7 +7,7 @@
         "name": "KickFlip",
         "type": "Tricks",
         "cost": "2",
-        "image": "https://tomlave.github.io/StreetSk8/Image/3f72915e-ce22-4ef1-b6d9-c55ae733fdaa.png",
+        "image": "https://tomlave.github.io/StreetSk8/Image/KickFlip.png",
         "isHorizontal": false
       }
     },
@@ -29,7 +29,7 @@
         "name": "HeelFlip",
         "type": "Tricks",
         "cost": "3",
-        "image": "https://tomlave.github.io/StreetSk8/Image/3f72915e-ce22-4ef1-b6d9-c55ae733fdaa.png",
+        "image": "https://tomlave.github.io/StreetSk8/Image/HeelFlip.png",
         "isHorizontal": false
       }
     },
