@@ -1,0 +1,43 @@
+[
+{
+  "title": "Milou",
+  "id": "f84bb41e-0511-42c6-a752-3bfa0633b4f3",
+  "cardCount": 20,
+  "createdAt": "2026-07-03T15:59:49.436Z",
+  "lastModifiedAt": "2026-07-03T16:02:14.990Z",
+  "game": "StreetSk8",
+  "format": [
+    "Set1"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Tricks",
+      "Module"
+    ],
+    "Tricks": [
+      {
+        "count": 4,
+        "id": "1"
+      },
+      {
+        "count": 4,
+        "id": "2"
+      },
+      {
+        "count": 4,
+        "id": "3"
+      },
+      {
+        "count": 4,
+        "id": "5"
+      }
+    ],
+    "Module": [
+      {
+        "count": 4,
+        "id": "4"
+      }
+    ]
+  }
+}
+]
