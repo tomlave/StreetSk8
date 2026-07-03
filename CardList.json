@@ -5,7 +5,7 @@
     "face": {
       "front": {
         "name": "KickFlip",
-        "type": "Flip",
+        "type": "Tricks",
         "cost": "2",
         "image": "https://tomlave.github.io/StreetSk8/Image/3f72915e-ce22-4ef1-b6d9-c55ae733fdaa.png",
         "isHorizontal": false
@@ -19,7 +19,7 @@
     "ReEnergy": 0,
     "Look": "1",
     "Fall": "",
-    "Score": "1"
+    "Score": "2"
   },
   "2": {
     "id": "2",
@@ -27,7 +27,7 @@
     "face": {
       "front": {
         "name": "HeelFlip",
-        "type": "Flip",
+        "type": "Tricks",
         "cost": "3",
         "image": "https://tomlave.github.io/StreetSk8/Image/3f72915e-ce22-4ef1-b6d9-c55ae733fdaa.png",
         "isHorizontal": false
@@ -92,18 +92,18 @@
     "face": {
       "front": {
         "name": "Fs 180",
-        "type": false,
+        "type": "Tricks",
         "cost": "1",
-        "image": "https://tomlave.github.io/StreetSk8/Image/3f72915e-ce22-4ef1-b6d9-c55ae733fdaa.png",
+        "image": "https://tomlave.github.io/StreetSk8/Image/ddb2ab3b-3fe3-476f-9824-4dd8d7edc4ef.png",
         "isHorizontal": false
       }
     },
     "name": "Fs 180",
-    "type": false,
-    "cost": 0,
+    "type": "Tricks",
+    "cost": "1",
     "Up": false,
     "Down": false,
-    "ReEnergy": 0,
+    "ReEnergy": "1",
     "Look": "",
     "Score": "1"
   }
