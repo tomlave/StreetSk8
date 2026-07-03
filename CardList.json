@@ -70,14 +70,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rail",
+        "name": "Flat Rail",
         "type": "Module",
         "cost": 0,
-        "image": "https://tomlave.github.io/StreetSk8/Image/f7e1e408-451c-45f4-94b8-61a75bc906a1.png",
+        "image": "https://tomlave.github.io/StreetSk8/Image/flat_rail.png",
         "isHorizontal": false
       }
     },
-    "name": "Rail",
+    "name": "Flat Rail",
     "type": "Module",
     "cost": 0,
     "Up": false,
@@ -94,7 +94,7 @@
         "name": "Fs 180",
         "type": "Tricks",
         "cost": "1",
-        "image": "https://tomlave.github.io/StreetSk8/Image/ddb2ab3b-3fe3-476f-9824-4dd8d7edc4ef.png",
+        "image": "https://tomlave.github.io/StreetSk8/Image/fs_180.png",
         "isHorizontal": false
       }
     },
