@@ -1,6 +1,6 @@
 {
   "name": "Street Sk8",
-  "menuBackgroundImage": "https://drive.google.com/file/d/1mBNX7EgoWIpmNBLnUVzZeJEqmTXBlO6E/view?usp=drive_link",
+  "menuBackgroundImage": "https://tomlave.github.io/StreetSk8/Image/backprint.png",
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": ""
@@ -8,8 +8,8 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://drive.google.com/file/d/1y0hSkklXTDvQapk0qC4reS_sH4WOn9ne/view?usp=drive_link",
-    "cardBack": "https://drive.google.com/file/d/1z9oj_ofmUf4tXUVKHXgSvWav7SiX07XA/view?usp=drive_link"
+    "dataUrl": "https://tomlave.github.io/StreetSk8/CardList.json",
+    "cardBack": "https://tomlave.github.io/StreetSk8/Image/39c05562-cced-47c3-b3fb-9690634142af.png"
   },
   "deckBuilding": {
     "mainFilters": [

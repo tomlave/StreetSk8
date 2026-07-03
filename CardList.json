@@ -7,7 +7,7 @@
         "name": "KickFlip",
         "type": "Flip",
         "cost": "2",
-        "image": "",
+        "image": "https://tomlave.github.io/StreetSk8/Image/3f72915e-ce22-4ef1-b6d9-c55ae733fdaa.png",
         "isHorizontal": false
       }
     },
@@ -28,7 +28,7 @@
         "name": "HeelFlip",
         "type": "Flip",
         "cost": "3",
-        "image": "",
+        "image": "https://tomlave.github.io/StreetSk8/Image/3f72915e-ce22-4ef1-b6d9-c55ae733fdaa.png",
         "isHorizontal": false
       }
     },
@@ -49,7 +49,7 @@
         "name": "BoardSlide",
         "type": "Slide",
         "cost": "3",
-        "image": "",
+        "image": "https://tomlave.github.io/StreetSk8/Image/3f72915e-ce22-4ef1-b6d9-c55ae733fdaa.png",
         "isHorizontal": false
       }
     },
