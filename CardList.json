@@ -61,5 +61,26 @@
     "ReEnergy": "1",
     "Look": 0,
     "Fall": ""
+  },
+  "4": {
+    "id": "4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rail",
+        "type": "Module",
+        "cost": 0,
+        "image": "https://tomlave.github.io/StreetSk8/Image/f7e1e408-451c-45f4-94b8-61a75bc906a1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rail",
+    "type": "Module",
+    "cost": 0,
+    "Up": false,
+    "Down": false,
+    "ReEnergy": 0,
+    "Look": "",
+    "Fall": ""
   }
 }
