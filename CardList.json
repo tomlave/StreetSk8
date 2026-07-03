@@ -12,13 +12,14 @@
       }
     },
     "name": "KickFlip",
-    "type": "Flip",
+    "type": "Tricks",
     "cost": "2",
     "Up": true,
     "Down": true,
     "ReEnergy": 0,
     "Look": "1",
-    "Fall": ""
+    "Fall": "",
+    "Score": "1"
   },
   "2": {
     "id": "2",
@@ -33,13 +34,14 @@
       }
     },
     "name": "HeelFlip",
-    "type": "Flip",
+    "type": "Tricks",
     "cost": "3",
     "Up": true,
     "Down": true,
     "ReEnergy": "0",
     "Look": "2",
-    "Fall": ""
+    "Fall": "",
+    "Score": "1"
   },
   "3": {
     "id": "3",
@@ -54,13 +56,14 @@
       }
     },
     "name": "BoardSlide",
-    "type": "Slide",
+    "type": "Tricks",
     "cost": "3",
     "Up": false,
     "Down": true,
     "ReEnergy": "1",
     "Look": 0,
-    "Fall": ""
+    "Fall": "",
+    "Score": "2"
   },
   "4": {
     "id": "4",
@@ -82,5 +85,26 @@
     "ReEnergy": 0,
     "Look": "",
     "Fall": ""
+  },
+  "5": {
+    "id": "5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fs 180",
+        "type": false,
+        "cost": "1",
+        "image": "https://tomlave.github.io/StreetSk8/Image/3f72915e-ce22-4ef1-b6d9-c55ae733fdaa.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fs 180",
+    "type": false,
+    "cost": 0,
+    "Up": false,
+    "Down": false,
+    "ReEnergy": 0,
+    "Look": "",
+    "Score": "1"
   }
 }
