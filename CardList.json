@@ -1,0 +1,65 @@
+{
+  "1": {
+    "id": "1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "KickFlip",
+        "type": "Flip",
+        "cost": "2",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "KickFlip",
+    "type": "Flip",
+    "cost": "2",
+    "Up": true,
+    "Down": true,
+    "ReEnergy": 0,
+    "Look": "1",
+    "Fall": ""
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "HeelFlip",
+        "type": "Flip",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "HeelFlip",
+    "type": "Flip",
+    "cost": "3",
+    "Up": true,
+    "Down": true,
+    "ReEnergy": "0",
+    "Look": "2",
+    "Fall": ""
+  },
+  "3": {
+    "id": "3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "BoardSlide",
+        "type": "Slide",
+        "cost": "3",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "BoardSlide",
+    "type": "Slide",
+    "cost": "3",
+    "Up": false,
+    "Down": true,
+    "ReEnergy": "1",
+    "Look": 0,
+    "Fall": ""
+  }
+}
