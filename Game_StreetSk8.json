@@ -12,6 +12,22 @@
     "cardBack": "https://tomlave.github.io/StreetSk8/Image/39c05562-cced-47c3-b3fb-9690634142af.png"
   },
   "deckBuilding": {
+     "deckRulesets": {
+      "Classic": {
+        "reversedLegality": true,
+        "general": {
+          "min": 10,
+          "max": 20,
+          "maxPerCard": 4
+        },
+        "categories": [
+          {
+            "category": "Chosen_modul",
+            "min": 3,
+            "max": 3
+          }
+        ]
+      },
     "mainFilters": [
       "Energy"
     ],
