@@ -27,7 +27,8 @@
             "max": 3
           }
         ]
-      },
+      }
+    },
     "mainFilters": [
       "Energy"
     ],
