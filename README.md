@@ -1,4 +1,4 @@
 # StreetSk8
-StreetSk8_CardGame
+link: https://tomlave.github.io/StreetSk8/Game_StreetSk8.json
 
 TCG Arena
